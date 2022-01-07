@@ -1,6 +1,6 @@
 
-  <h1 >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Reis Souza</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=reissouza&color=blueviolet" alt="Profile views" /> </p>
+  <h1 align="center"> >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Reis Souza</h1>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=reissouza&color=blueviolet" alt="Profile views" /> </p>
 
 
 - ❤️ Web developer passionate about what he does
