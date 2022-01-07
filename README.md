@@ -12,9 +12,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=reissouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reissouza&layout=compact&langs_count=7&theme=radical"/>
+<p align="center">
+ <img    src="https://github-readme-stats.vercel.app/api?username=reissouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img width="415px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=reissouza&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 
