@@ -13,10 +13,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center" display="flex">
- <img   width="100%"  src="https://github-readme-stats.vercel.app/api?username=reissouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img   width="100%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=reissouza&layout=compact&langs_count=7&theme=radical"/>
-</p>
+
 
 
 <br>
