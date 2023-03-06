@@ -1,6 +1,6 @@
 
 
-  <h1 align="center"> >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Reis Souza</h1>
+  <h1 align="center"> >Hi I'm Reis Souza developed front-end</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=reissouza&color=blueviolet" alt="Profile views" /> </p>
 
 
@@ -12,9 +12,6 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-
-
 
 <br>
 
